@@ -6,4 +6,5 @@ However, some are hard to pronounce and not often used.
 
 Here, we list them and link to software auth's video. 
 
-eg:
+
+eg: https://www.howtopronounce.com/envoy
